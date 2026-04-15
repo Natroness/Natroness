@@ -7,54 +7,63 @@ Building AI systems that think, react, and scale in real time.
 
 ---
 
-## 🚀 About Me
-
-- 🎓 CS @ Tarrant County College (GPA: 3.83) → UNT (Fall 2026)
-- 🧠 Focus: **AI Systems, LLMs, Multi-Agent Architectures**
-- ⚡ Built real-time AI systems using **Groq (LLaMA 3), Gemini, Redis**
-- 🏆 Hackathon-driven builder (idea → product fast)
-- 🎯 Goal: Build impactful AI products & land top-tier engineering roles
-
----
-
-## 🔥 Featured Projects
-
-### 🚨 ChhayaAI – Real-Time Emergency AI Assistant
-- Multi-agent system (**Supervisor, Map, Alert, Data agents**)
-- Real-time, location-aware safety workflows
-- End-to-end system: mobile → backend → AI decision engine
-- Stack: `SwiftUI • FastAPI • Redis • Firebase • Groq (LLaMA 3)`
-
----
-
-### 📊 FeedBack AI – AI Sentiment Intelligence Platform
-- Real-time sentiment analysis from users + Reddit
-- Integrated **Gemini + Nemotron AI**
-- Built dashboards + geo insights for decision-making
-- Stack: `React • FastAPI • Node • Firebase • Chart.js`
-
----
-
-### 🎧 Syllable – AI Learning Assistant
-- Converts PDFs → structured insights + audio summaries
-- Uses **Gemini AI + ElevenLabs**
-- Makes academic content actually usable
+<p align="center">
+  <img src="https://github.com/Natroness/Natroness/blob/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
 ## ⚡ Tech Stack
 
-### 🧠 AI / ML
-`TensorFlow` `OpenCV` `dlib` `LlamaIndex` `FAISS` `NLP` `RAG`
+<table>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/dlib-2C2D72?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/LlamaIndex-6E56CF?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/FAISS-0096D6?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/NLP-1F6FEB?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
+    </td>
+  </tr>
 
-### 💻 Languages
-`Python` `JavaScript` `TypeScript` `C` `C++` `Swift`
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge"/>
+    </td>
+  </tr>
 
-### 🌐 Full Stack
-`React` `Next.js` `FastAPI` `Node.js` `Tailwind`
+  <tr>
+    <td><b>Full Stack</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
+    </td>
+  </tr>
 
-### ☁️ Systems / Cloud
-`Firebase` `Redis` `WebSockets` `Vercel`
+  <tr>
+    <td><b>Systems / Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -63,14 +72,6 @@ Building AI systems that think, react, and scale in real time.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Natroness&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natroness&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Natroness/Natroness/blob/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
