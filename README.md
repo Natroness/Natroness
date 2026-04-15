@@ -67,18 +67,15 @@ Building AI systems that think, react, and scale in real time.
 
 ---
 
-## 📈 GitHub Stats
+## 👀 Checkout my..
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natroness&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natroness&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
+  <a href="https://nikesh.us">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://devpost.com/Natroness?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/nikesh-paudyal-">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
