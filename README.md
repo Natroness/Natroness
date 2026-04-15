@@ -79,7 +79,4 @@ Building AI systems that think, react, and scale in real time.
   <a href="https://linkedin.com/in/nikesh-paudyal-">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Natroness">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
