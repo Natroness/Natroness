@@ -85,9 +85,9 @@ Building AI systems that think, react, and scale in real time.
 
 ## 🚀 About Me
 
-I'm a **Computer Science student at the University of North Texas** with a passion for building software that solves real-world problems. Whether it's developing intelligent AI systems, creating full-stack web applications, or exploring new technologies, I enjoy transforming ideas into products that make an impact.
+I'm a **Computer Science student at the University of North Texas** who enjoys building software that makes people's lives easier. My interests include software engineering, artificial intelligence, machine learning, and full-stack development.
 
-Through **Break Through Tech** and **CodePath**, I've gained hands-on experience building AI-powered applications, training machine learning models, developing scalable full-stack systems, and collaborating on real-world technical projects. Every project is an opportunity for me to learn something new, improve my engineering skills, and create solutions that people can use.
+Through **Break Through Tech** and **CodePath**, I've gained hands-on experience building AI-powered applications, training machine learning models, developing scalable full-stack systems, and collaborating on real world technical projects. Every project is an opportunity for me to learn something new, improve my engineering skills, and create solutions that people can use.
 
 ### 💡 Interests
 
@@ -95,7 +95,7 @@ Through **Break Through Tech** and **CodePath**, I've gained hands-on experience
 - 💻 Software Engineering
 - 🌐 Full-Stack Development
 - 🧠 Computer Vision & RAG Systems
-- 🚀 Building products that solve real-world problems
+- 🚀 Building products 
 
 ### 🌱 Currently
 
@@ -106,8 +106,7 @@ Through **Break Through Tech** and **CodePath**, I've gained hands-on experience
 
 ### ⚡ Fun Fact
 
-I love **hackathons**. There's something incredibly rewarding about taking an idea from a whiteboard to a working prototype in just 24–48 hours. I enjoy the fast-paced environment, collaborating with talented developers, and pushing myself to learn new technologies under pressure.
+I love **hackathons**. I enjoy the fast-paced environment, collaborating with talented developers, and pushing myself to learn new technologies under pressure.
 
 ---
 
-> *"Always building. Always learning."* 🚀
