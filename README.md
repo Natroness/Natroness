@@ -67,7 +67,7 @@ Building AI systems that think, react, and scale in real time.
 
 ---
 
-## 👀 Checkout my..
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://nikesh.us">
@@ -80,3 +80,34 @@ Building AI systems that think, react, and scale in real time.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## 🚀 About Me
+
+I'm a **Computer Science student at the University of North Texas** with a passion for building software that solves real-world problems. Whether it's developing intelligent AI systems, creating full-stack web applications, or exploring new technologies, I enjoy transforming ideas into products that make an impact.
+
+Through **Break Through Tech** and **CodePath**, I've gained hands-on experience building AI-powered applications, training machine learning models, developing scalable full-stack systems, and collaborating on real-world technical projects. Every project is an opportunity for me to learn something new, improve my engineering skills, and create solutions that people can use.
+
+### 💡 Interests
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Software Engineering
+- 🌐 Full-Stack Development
+- 🧠 Computer Vision & RAG Systems
+- 🚀 Building products that solve real-world problems
+
+### 🌱 Currently
+
+- 🎓 B.S. Computer Science @ University of North Texas
+- 🤖 AI/ML Fellow @ Break Through Tech
+- 💻 CodePath Fellow
+- 🔍 Seeking Software Engineering & AI/ML Internship opportunities
+
+### ⚡ Fun Fact
+
+I love **hackathons**. There's something incredibly rewarding about taking an idea from a whiteboard to a working prototype in just 24–48 hours. I enjoy the fast-paced environment, collaborating with talented developers, and pushing myself to learn new technologies under pressure.
+
+---
+
+> *"Always building. Always learning."* 🚀
